@@ -1,7 +1,8 @@
 # sales-dashboard-powerbi-project
 
 this my powerbi sales dashboard project 
-<img width="1295" height="729" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/df2d72ae-3c2d-4850-84a3-50b878f14e64" />
+<img width="1301" height="739" alt="new image " src="https://github.com/user-attachments/assets/f40102ab-2eba-44cc-a803-550ea085de79" />
+
 
 
 
